@@ -1,0 +1,1838 @@
+﻿Log file open, 06/16/22 07:49:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: KimJae_Neversleep
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.635621
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin FMODStudio
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: AMD Radeon RX 6700 XT
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/program/Game/Epicgames/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Engine.ini]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[r.SSGI.Enable:1]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Engine.ini]
+[2022.06.15-22.49.31:396][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Engine.ini]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Engine.ini]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.15-22.49.31:396][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Engine.ini]
+[2022.06.15-22.49.31:396][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Engine.ini]
+[2022.06.15-22.49.31:428][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.15-22.49.31:428][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.15-22.49.31:429][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.15-22.49.31:429][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.15-22.49.31:429][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.15-22.49.31:438][  0]LogHAL: Display: Platform has ~ 16 GB [17101991936 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.15-22.49.31:438][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.15-22.49.31:438][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.15-22.49.31:438][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Scalability.ini]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.15-22.49.31:439][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Engine.ini]
+[2022.06.15-22.49.31:439][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Config/Windows/Editor.ini]
+[2022.06.15-22.49.31:439][  0]LogInit: Computer: DESKTOP-8H581U2
+[2022.06.15-22.49.31:439][  0]LogInit: User: 김재원
+[2022.06.15-22.49.31:439][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.06.15-22.49.31:439][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.15-22.49.31:439][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.06.15-22.49.31:439][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.15-22.49.31:439][  0]LogMemory: Process Physical Memory: 144.89 MB used, 144.90 MB peak
+[2022.06.15-22.49.31:439][  0]LogMemory: Process Virtual Memory: 130.63 MB used, 130.63 MB peak
+[2022.06.15-22.49.31:439][  0]LogMemory: Physical Memory: 12235.55 MB used,  4074.18 MB free, 16309.73 MB total
+[2022.06.15-22.49.31:439][  0]LogMemory: Virtual Memory: 134210360.00 MB used,  7364.30 MB free, 134217728.00 MB total
+[2022.06.15-22.49.31:446][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.15-22.49.31:792][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.15-22.49.31:825][  0]LogInit: Using OS detected language (ko-KR).
+[2022.06.15-22.49.31:825][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.06.15-22.49.31:853][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2022.06.15-22.49.32:170][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.15-22.49.32:272][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.15-22.49.32:415][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.15-22.49.32:415][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.15-22.49.33:420][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.06.15-22.49.33:423][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.15-22.49.33:423][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.15-22.49.33:423][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.15-22.49.33:423][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.15-22.49.33:464][  0]LogD3D11RHI:    0. 'AMD Radeon RX 6700 XT' (Feature Level 11_0)
+[2022.06.15-22.49.33:464][  0]LogD3D11RHI:       12243/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.06.15-22.49.33:466][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.15-22.49.33:466][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.15-22.49.33:466][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.06.15-22.49.33:466][  0]LogD3D11RHI:     Description : AMD Radeon RX 6700 XT
+[2022.06.15-22.49.33:466][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.06.15-22.49.33:467][  0]LogD3D11RHI:     DeviceId    : 73df
+[2022.06.15-22.49.33:467][  0]LogD3D11RHI:     SubSysId    : 66011eae
+[2022.06.15-22.49.33:467][  0]LogD3D11RHI:     Revision    : 00c1
+[2022.06.15-22.49.33:467][  0]LogD3D11RHI:     DedicatedVideoMemory : 12838330368 bytes
+[2022.06.15-22.49.33:467][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.15-22.49.33:467][  0]LogD3D11RHI:     SharedSystemMemory : 8550995968 bytes
+[2022.06.15-22.49.33:467][  0]LogD3D11RHI:     AdapterLuid : 0 58991
+[2022.06.15-22.49.33:474][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.15-22.49.33:474][  0]LogD3D11RHI:     GPU DeviceId: 0x73df (for the marketing name, search the web for "GPU Device Id")
+[2022.06.15-22.49.33:474][  0]LogWindows: EnumDisplayDevices:
+[2022.06.15-22.49.33:474][  0]LogWindows:    0. 'AMD Radeon RX 6700 XT' (P:0 D:0)
+[2022.06.15-22.49.33:475][  0]LogWindows:    1. 'AMD Radeon RX 6700 XT' (P:1 D:1)
+[2022.06.15-22.49.33:475][  0]LogWindows:    2. 'AMD Radeon RX 6700 XT' (P:0 D:0)
+[2022.06.15-22.49.33:476][  0]LogWindows:    3. 'AMD Radeon RX 6700 XT' (P:0 D:0)
+[2022.06.15-22.49.33:477][  0]LogWindows:    4. 'AMD Radeon RX 6700 XT' (P:0 D:0)
+[2022.06.15-22.49.33:477][  0]LogWindows:    5. 'AMD Radeon RX 6700 XT' (P:0 D:0)
+[2022.06.15-22.49.33:478][  0]LogWindows:    6. 'AMD Radeon RX 6700 XT' (P:0 D:0)
+[2022.06.15-22.49.33:478][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2022.06.15-22.49.33:478][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 6700 XT
+[2022.06.15-22.49.33:478][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 22.1.2 (internal:30.0.14023.3004, unified:30.0.14023.3004)
+[2022.06.15-22.49.33:478][  0]LogD3D11RHI:      Driver Date: 1-18-2022
+[2022.06.15-22.49.33:478][  0]LogRHI: Texture pool is 8032 MB (70% of 11475 MB)
+[2022.06.15-22.49.33:556][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2022.06.15-22.49.33:556][  0]LogD3D11RHI:     Description : AMD Radeon RX 6700 XT
+[2022.06.15-22.49.33:556][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.06.15-22.49.33:556][  0]LogD3D11RHI:     DeviceId    : 73df
+[2022.06.15-22.49.33:556][  0]LogD3D11RHI:     SubSysId    : 66011eae
+[2022.06.15-22.49.33:556][  0]LogD3D11RHI:     Revision    : 00c1
+[2022.06.15-22.49.33:556][  0]LogD3D11RHI:     DedicatedVideoMemory : 12838330368 bytes
+[2022.06.15-22.49.33:556][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.06.15-22.49.33:556][  0]LogD3D11RHI:     SharedSystemMemory : 8550995968 bytes
+[2022.06.15-22.49.33:556][  0]LogD3D11RHI:     AdapterLuid : 0 58991
+[2022.06.15-22.49.33:592][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2022.06.15-22.49.33:592][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.15-22.49.33:592][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.15-22.49.33:592][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.15-22.49.33:592][  0]LogD3D11RHI: HDR output is supported on display 0 (AMD Device: 0x0, Display: 0x0).
+[2022.06.15-22.49.33:629][  0]LogD3D11RHI: GPU Timing Frequency: 100.000000 (Debug: 2 1)
+[2022.06.15-22.49.34:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.15-22.49.34:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.15-22.49.34:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.15-22.49.34:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.15-22.49.34:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.15-22.49.34:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.15-22.49.34:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.15-22.49.34:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.15-22.49.34:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.15-22.49.34:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.15-22.49.34:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.15-22.49.34:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.15-22.49.34:722][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.15-22.49.34:768][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.15-22.49.34:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.15-22.49.34:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.15-22.49.34:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.15-22.49.34:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.15-22.49.34:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.15-22.49.34:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.15-22.49.34:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.15-22.49.34:875][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.15-22.49.34:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.15-22.49.34:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.15-22.49.34:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.15-22.49.34:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.15-22.49.34:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.15-22.49.34:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.15-22.49.34:974][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.15-22.49.34:992][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.15-22.49.34:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.15-22.49.35:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.15-22.49.35:000][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.15-22.49.35:070][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.15-22.49.35:279][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.06.15-22.49.35:486][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.15-22.49.35:495][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Intermediate/Shaders/WorkingDirectory/9232/).
+[2022.06.15-22.49.35:495][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/9221190E4F6A65007C411A9C97544177/'.
+[2022.06.15-22.49.35:496][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.15-22.49.35:496][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.15-22.49.35:496][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.15-22.49.36:068][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.15-22.49.36:223][  0]LogDerivedDataCache: Loaded boot cache 0.15s 235MB C:/Users/user/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.15-22.49.36:223][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.06.15-22.49.36:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.15-22.49.36:223][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.15-22.49.36:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.15-22.49.36:223][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.15-22.49.36:288][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.15-22.49.36:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.15-22.49.36:289][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.15-22.49.36:299][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.15-22.49.36:299][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.21ms. RandomReadSpeed=294.83MBs, RandomWriteSpeed=200.45MBs. Assigned SpeedClass 'Local'
+[2022.06.15-22.49.36:300][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.15-22.49.36:300][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.15-22.49.36:300][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.15-22.49.36:362][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.15-22.49.36:382][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.15-22.49.36:864][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2022.06.15-22.49.38:676][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.15-22.49.38:676][  0]LogInit: Active device profile: [000001C13C6D2E00][000001C12BBA3440 49] Windows
+[2022.06.15-22.49.38:676][  0]LogInit: Profiles: [000001C13C6D2E00][000001C12BBA3440 49] Windows, [000001C13C691400][000001C12BCB75C0 49] WindowsNoEditor, [000001C13C6D1400][000001C12BCA9740 49] WindowsServer, [000001C13C692600][000001C12BB6F8C0 49] WindowsClient, [000001C13C6D2500][000001C12BCADA40 49] IOS, [000001C13C691D00][000001C13D1F1BC0 49] iPadAir, [000001C13C6D1C00][000001C13D1F41C0 49] iPadAir2, [000001C13C62F500][000001C13D1FC480 49] IPadPro, [000001C13C62F600][000001C13D1F84C0 49] iPadAir3, [000001C13C6D3000][000001C12BB72640 49] iPadAir4, [000001C13C62D900][000001C12BB767C0 49] iPadMini2, [000001C13C6D2B00][000001C12BB7A940 49] iPadMini3, [000001C13C62F700][000001C12BB7EAC0 49] iPadMini4, [000001C13C6D0100][000001C12BB82C40 49] iPadMini5, [000001C13C682E00][000001C12BB8AF00 49] iPhone6, [000001C13C682F00][000001C12BB86F40 49] iPodTouch6, [000001C13C62CA00][000001C12BB8F180 49] iPhone7, [000001C13C62C900][000001C12BCB31C0 49] iPodTouch7, [000001C13C681800][000001C12BB93300 49] iPhone5S, [000001C13C62EE00][000001C12BB9B480 49] iPhone6Plus, [000001C13C682100][000001C12BB9F600 49] iPhone6S, [000001C13C62E400][000001C13D391780 49] iPhone6SPlus, [000001C13C681700][000001C13D395900 49] iPhone7Plus, [000001C13C62FA00][000001C13D399A80 49] iPhoneSE, [000001C13C681A00][000001C13D39DC00 49] iPhone8, [000001C13C62EC00][000001C13D3A0200 49] iPhone8Plus, [000001C13C682000][000001C13D3A4380 49] iPhoneX, [000001C13C62E500][000001C13D3A8500 49] iPhoneXS, [000001C13C682900][000001C13D3AC680 49] iPhoneXSMax, [000001C13C62F300][000001C13D3B0800 49] iPhoneXR, [000001C13C683700][000001C13D3B4980 49] iPhone11, [000001C13C62CE00][000001C13D3B8B00 49] iPhone11Pro, [000001C13C683500][000001C13D3BCC80 49] iPhone11ProMax, [000001C13C62DA00][000001C13D2E6E00 49] iPhoneSE2, [000001C13C681200][000001C13D2EAF80 49] iPhone12Mini, [000001C13C62DE00][000001C13D2EF100 49] iPhone12, [000001C13C682200][000001C12BB97240 49] iPhone12Pro, [000001C13C62C700][000001C13D2F3380 49] iPhone12ProMax, [000001C13C683800][000001C13D2F74C0 49] iPadPro105, [000001C13C62EA00][000001C13D2FF640 49] iPadPro129, [000001C13C680B00][000001C13D3037C0 49] iPadPro97, [000001C13C62F800][000001C13D307940 49] iPadPro2_129, [000001C13C683D00][000001C13D30BAC0 49] iPad5, [000001C13C62FD00][000001C13D30E0C0 49] iPad6, [000001C13C682500][000001C13D312240 49] iPad7, [000001C13C62C400][000001C13D3163C0 49] iPad8, [000001C13C683F00][000001C13D31A540 49] iPadPro11, [000001C13C62FB00][000001C13D31E6C0 49] iPadPro2_11, [000001C13C682400][000001C1397E6840 49] iPadPro3_129, [000001C13C62FE00][000001C1397EA9C0 49] iPadPro4_129, [000001C13C681300][000001C1397EEB40 49] AppleTV, [000001C13C62E600][000001C1397F2CC0 49] AppleTV4K, [000001C13C693600][000001C1397F6E40 49] TVOS, [000001C13C22D100][000001C1397FAFC0 49] Mac, [000001C13C693A00][000001C1397FF140 49] MacClient, [000001C13C22D900][000001C1398032C0 49] MacNoEditor, [000001C13C692500][000001C13D2FB400 49] MacServer, [000001C13C22D800][000001C139807540 49] Linux, [000001C13C690A00][000001C13980B680 49] LinuxAArch64, [000001C13C22CC00][000001C13980F7C0 49] LinuxNoEditor, [000001C13C692300][000001C139817940 49] LinuxAArch64NoEditor, [000001C13C22D600][000001C13981BAC0 49] LinuxClient, [000001C13C691F00][000001C13981E0C0 49] LinuxAArch64Client, [000001C13C22C200][000001C139822240 49] LinuxServer, [000001C13C690200][000001C1398263C0 49] LinuxAArch64Server, [000001C13C22DC00][000001C13982A540 49] Android, [000001C13C690B00][000001C13982E6C0 49] Android_Low, [000001C13C22DA00][000001C139832840 49] Android_Mid, [000001C13C691C00][000001C1272809C0 49] Android_High, [000001C13C22DE00][000001C127284B40 49] Android_Default, [000001C13C693F00][000001C127288CC0 49] Android_Adreno4xx, [000001C13C22CF00][000001C12728CE40 49] Android_Adreno5xx_Low, [000001C13C62DD00][000001C127290FC0 49] Android_Adreno5xx, [000001C13C680100][000001C127295140 49] Android_Adreno6xx, [000001C13C62FC00][000001C1272992C0 49] Android_Adreno6xx_Vulkan, [000001C13C682B00][000001C12729D440 49] Android_Mali_T6xx, [000001C13C62E900][000001C139813580 49] Android_Mali_T7xx, [000001C13C680F00][000001C1272A16C0 49] Android_Mali_T8xx, [000001C13C62D800][000001C1272A5800 49] Android_Mali_G71, [000001C13C680300][000001C1272A9940 49] Android_Mali_G72, [000001C13C62D200][000001C1272B1AC0 49] Android_Mali_G72_Vulkan, [000001C13C680800][000001C1272B40C0 49] Android_Mali_G76, [000001C13C62D400][000001C1272B8240 49] Android_Mali_G76_Vulkan, [000001C13C682700][000001C13BF803C0 49] Android_Mali_G77, [000001C13C62E200][000001C13BF84540 49] Android_Mali_G77_Vulkan, [000001C13C682300][000001C13BF886C0 49] Android_Mali_G78, [000001C13C62E700][000001C13BF8C840 49] Android_Mali_G78_Vulkan, [000001C13C683000][000001C13BF909C0 49] Android_Mali_G710, [000001C13C62CC00][000001C13BF94B40 49] Android_Mali_G710_Vulkan, [000001C13C22C300][000001C13BF98CC0 49] Android_Vulkan_SM5, [000001C13C62E100][000001C13BF9CE40 49] Android_PowerVR_G6xxx, [000001C13C22E100][000001C1272BCFC0 49] Android_PowerVR_GT7xxx, [000001C13C62C600][000001C1272C1140 49] Android_PowerVR_GE8xxx, [000001C13C22C600][000001C1272C52C0 49] Android_PowerVR_GM9xxx, [000001C13C62C200][000001C1272C9440 49] Android_PowerVR_GM9xxx_Vulkan, [000001C13C22C700][000001C1272CD5C0 49] Android_TegraK1, [000001C13C62D000][000001C1272D1740 49] Android_Unknown_Vulkan, [000001C13C680C00][000001C1272AD880 49] Lumin, [000001C13C62C300][000001C1272D59C0 49] Lumin_Desktop, [000001C13C681D00][000001C1272D9B00 49] HoloLens, 
+[2022.06.15-22.49.39:595][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.15-22.49.39:595][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.15-22.49.39:595][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.15-22.49.39:595][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.15-22.49.39:595][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.15-22.49.39:704][  0]LogNetVersion: KimJae_Neversleep 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2262865850)
+[2022.06.15-22.49.46:769][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.15-22.49.47:223][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.15-22.49.47:253][  0]LogUObjectArray: 17179 objects as part of root set at end of initial load.
+[2022.06.15-22.49.47:253][  0]LogUObjectAllocator: 4302256 out of 0 bytes used by permanent object pool.
+[2022.06.15-22.49.47:253][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.15-22.49.48:576][  0]LogFMOD: FFMODStudioModule startup
+[2022.06.15-22.49.48:577][  0]LogFMOD: Lib path = '../../../Engine/Plugins/FMODStudio/Binaries'
+[2022.06.15-22.49.48:577][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodL.dll
+[2022.06.15-22.49.48:598][  0]LogFMOD: FFMODStudioModule::LoadDll: Loading ../../../Engine/Plugins/FMODStudio/Binaries/Win64/fmodstudioL.dll
+[2022.06.15-22.49.48:601][  0]LogFMOD: Error: Failed to load bank lookup
+[2022.06.15-22.49.48:602][  0]LogFMOD: Error: Failed to load asset lookup
+[2022.06.15-22.49.48:623][  0]LogFMOD: Default sample rate = 48000
+[2022.06.15-22.49.48:623][  0]LogFMOD: System sample rate = 48000
+[2022.06.15-22.49.48:623][  0]LogFMOD: Matching system sample rate 48000
+[2022.06.15-22.49.48:687][  0]LogFMOD: Default sample rate = 48000
+[2022.06.15-22.49.48:687][  0]LogFMOD: System sample rate = 48000
+[2022.06.15-22.49.48:687][  0]LogFMOD: Matching system sample rate 48000
+[2022.06.15-22.49.49:883][  0]LogPython: Using Python 3.7.7
+[2022.06.15-22.49.51:261][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0A8501254C961E48B90FF9AF2C61D5F9 | Instance: C0C90D0A4D237B599B0AB695FB31CEBD (DESKTOP-8H581U2-9232).
+[2022.06.15-22.49.52:026][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.15-22.49.52:047][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.15-22.49.52:902][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.15-22.49.52:902][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.15-22.49.52:928][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.15-22.49.52:987][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.15-22.49.53:019][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.15-22.49.53:035][  0]LogUProjectInfo: Found projects:
+[2022.06.15-22.49.54:231][  0]LogOpenImageDenoise: OIDN starting up
+[2022.06.15-22.49.54:638][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.15-22.49.54:729][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.15-22.49.54:729][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.15-22.49.55:395][  0]LogCollectionManager: Loaded 0 collections in 0.000496 seconds
+[2022.06.15-22.49.55:574][  0]LogFileCache: Scanning file cache for directory 'D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Collections/' took 0.00s
+[2022.06.15-22.49.55:574][  0]LogFileCache: Scanning file cache for directory 'D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/Developers/김재원/Collections/' took 0.00s
+[2022.06.15-22.49.55:574][  0]LogFileCache: Scanning file cache for directory 'D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/Collections/' took 0.00s
+[2022.06.15-22.49.55:574][  0]LogOcInput: OculusInput pre-init called
+[2022.06.15-22.49.56:291][  0]LogClass: Warning: ObjectProperty FFMODLocalizedBankTable::Banks is not initialized properly. Module:FMODStudio File:Private/FMODBankLookup.h
+[2022.06.15-22.49.56:291][  0]LogClass: Display: BoolProperty FFMODProjectLocale::bDefault is not initialized properly. Module:FMODStudio File:Classes/FMODSettings.h
+[2022.06.15-22.49.56:299][  0]LogClass: Display: 2 Uninitialized script struct members found including 1 object properties
+[2022.06.15-22.49.56:319][  0]LogAutomationTest: Warning: ObjectProperty FFMODLocalizedBankTable::Banks is not initialized properly. Module:FMODStudio File:Private/FMODBankLookup.h
+[2022.06.15-22.49.56:328][  0]LogEngine: Initializing Engine...
+[2022.06.15-22.49.56:358][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.06.15-22.49.56:358][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.15-22.49.56:358][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.15-22.49.56:374][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.016 s
+[2022.06.15-22.49.57:134][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.15-22.49.57:200][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.15-22.49.57:201][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.15-22.49.57:238][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.06.15-22.49.57:242][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.06.15-22.49.57:242][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.15-22.49.57:242][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.15-22.49.57:242][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.15-22.49.57:242][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.15-22.49.57:242][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.15-22.49.57:242][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.15-22.49.57:242][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.15-22.49.57:242][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.15-22.49.57:242][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.15-22.49.57:249][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.15-22.49.57:258][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.15-22.49.57:258][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.15-22.49.57:258][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.15-22.49.57:258][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.15-22.49.57:335][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.15-22.49.57:335][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.15-22.49.57:381][  0]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2022.06.15-22.49.57:381][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.15-22.49.57:397][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.15-22.49.57:397][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.15-22.49.57:427][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.15-22.49.57:427][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.15-22.49.57:427][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.15-22.49.57:429][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.15-22.49.57:429][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.15-22.49.57:429][  0]LogInit: FAudioDevice initialized.
+[2022.06.15-22.49.57:429][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.15-22.49.57:429][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.15-22.49.57:522][  0]LogDerivedDataCache: Saved boot cache 0.09s 212MB C:/Users/user/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.06.15-22.49.57:529][  0]LogInit: Texture streaming: Enabled
+[2022.06.15-22.49.57:891][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.06.15-22.49.58:009][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.15-22.49.58:009][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.15-22.49.58:034][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.15-22.49.58:749][  0]LogInit: Transaction tracking system initialized
+[2022.06.15-22.49.59:799][  0]BlueprintLog: New page: 에디터 로드
+[2022.06.15-22.50.01:602][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.06.15-22.50.02:439][  0]TimingProfiler: Initialize
+[2022.06.15-22.50.02:439][  0]TimingProfiler: OnSessionChanged
+[2022.06.15-22.50.02:439][  0]LoadingProfiler: Initialize
+[2022.06.15-22.50.02:439][  0]LoadingProfiler: OnSessionChanged
+[2022.06.15-22.50.02:439][  0]NetworkingProfiler: Initialize
+[2022.06.15-22.50.02:439][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.15-22.50.02:439][  0]MemoryProfiler: Initialize
+[2022.06.15-22.50.02:439][  0]MemoryProfiler: OnSessionChanged
+[2022.06.15-22.50.07:258][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.15-22.50.07:258][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.15-22.50.07:656][  0]LogFileCache: Scanning file cache for directory 'D:/A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/' took 0.04s
+[2022.06.15-22.50.08:710][  0]LogFMOD: FFMODStudioEditorModule startup
+[2022.06.15-22.50.12:477][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.15-22.50.12:620][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.06.15-22.50.12:620][  0]LogUnrealEdMisc: Loading editor; pre map load, took 49.449
+[2022.06.15-22.50.12:707][  0]Cmd: MAP LOAD FILE="../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.15-22.50.12:920][  0]LightingResults: New page: 라이팅 빌드
+[2022.06.15-22.50.12:981][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-22.50.12:981][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-22.50.12:981][  0]MapCheck: New page: 맵 체크
+[2022.06.15-22.50.12:981][  0]LightingResults: New page: 라이팅 빌드
+[2022.06.15-22.50.12:984][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-22.50.12:986][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.06.15-22.50.15:816][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.06.15-22.50.15:816][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.15-22.50.16:026][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.15-22.50.16:036][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.06.15-22.50.16:038][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.15-22.50.16:038][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.077ms.
+[2022.06.15-22.50.16:038][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.331
+[2022.06.15-22.50.16:039][  0]LogUnrealEdMisc: Total Editor Startup Time, took 52.869
+[2022.06.15-22.50.16:281][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-22.50.16:285][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-22.50.16:289][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-22.50.16:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.15-22.50.16:493][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.15-22.50.16:493][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.16:493][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.15-22.50.16:493][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.16:493][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.06.15-22.50.16:493][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.06.15-22.50.16:523][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.15-22.50.16:523][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.16:523][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.15-22.50.16:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.16:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.06.15-22.50.16:523][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.06.15-22.50.16:537][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.15-22.50.16:537][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.16:537][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.15-22.50.16:537][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.16:537][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.06.15-22.50.16:537][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.06.15-22.50.16:562][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.15-22.50.16:562][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.16:562][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.15-22.50.16:562][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.16:562][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.06.15-22.50.16:562][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.06.15-22.50.16:696][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.15-22.50.16:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.16:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.15-22.50.16:696][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.16:696][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.06.15-22.50.16:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.06.15-22.50.16:715][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.15-22.50.16:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.16:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.15-22.50.16:715][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.16:715][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.06.15-22.50.16:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.06.15-22.50.16:732][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.15-22.50.16:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.16:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.15-22.50.16:732][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.16:732][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.06.15-22.50.16:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.06.15-22.50.16:801][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.15-22.50.16:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.16:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.15-22.50.16:801][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.16:801][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.06.15-22.50.16:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.06.15-22.50.16:893][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.15-22.50.16:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.16:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.15-22.50.16:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.16:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.06.15-22.50.16:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.06.15-22.50.16:970][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.15-22.50.16:970][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.16:970][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.15-22.50.16:970][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.16:970][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.06.15-22.50.16:970][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.15-22.50.16:991][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.15-22.50.16:991][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.16:991][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.15-22.50.16:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.16:991][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.06.15-22.50.16:991][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.06.15-22.50.17:002][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.15-22.50.17:002][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:002][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.15-22.50.17:002][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:002][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.06.15-22.50.17:002][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.06.15-22.50.17:017][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.15-22.50.17:017][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:017][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.15-22.50.17:017][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:017][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.06.15-22.50.17:017][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.06.15-22.50.17:025][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.15-22.50.17:025][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.15-22.50.17:025][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:025][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.06.15-22.50.17:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.15-22.50.17:034][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.15-22.50.17:034][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:034][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.15-22.50.17:034][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:034][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.06.15-22.50.17:034][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.06.15-22.50.17:037][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.15-22.50.17:037][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:037][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.15-22.50.17:037][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:037][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.06.15-22.50.17:037][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.06.15-22.50.17:049][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.15-22.50.17:049][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:049][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.15-22.50.17:049][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:049][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.06.15-22.50.17:049][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.06.15-22.50.17:052][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.15-22.50.17:052][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:052][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.15-22.50.17:052][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:052][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.06.15-22.50.17:052][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.06.15-22.50.17:061][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.15-22.50.17:061][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:061][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.15-22.50.17:061][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:061][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.06.15-22.50.17:061][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.06.15-22.50.17:066][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.15-22.50.17:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.15-22.50.17:066][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:066][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.06.15-22.50.17:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.06.15-22.50.17:078][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.15-22.50.17:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.15-22.50.17:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.06.15-22.50.17:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.06.15-22.50.17:081][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.15-22.50.17:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.15-22.50.17:081][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:081][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.06.15-22.50.17:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.06.15-22.50.17:095][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.15-22.50.17:095][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:095][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.15-22.50.17:095][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:095][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.06.15-22.50.17:095][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.15-22.50.17:144][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.15-22.50.17:144][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:144][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.15-22.50.17:144][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:144][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.06.15-22.50.17:144][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.15-22.50.17:147][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.15-22.50.17:147][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:147][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.15-22.50.17:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.06.15-22.50.17:147][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.15-22.50.17:175][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.15-22.50.17:175][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.15-22.50.17:175][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.15-22.50.17:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.06.15-22.50.17:175][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/program/Game/Epicgames/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.06.15-22.50.17:175][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.15-22.50.18:162][  0]LogSlate: Took 0.034026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.15-22.50.18:211][  0]LogSlate: Took 0.047592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.06.15-22.50.18:290][  0]LogSlate: Took 0.079333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.15-22.50.18:338][  0]LogSlate: Took 0.047078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.06.15-22.50.18:358][  0]LogSlate: Took 0.019640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.15-22.50.18:591][  0]LogRenderer: Reallocating scene render targets to support 1116x848 Format 10 NumSamples 1 (Frame:1).
+[2022.06.15-22.50.18:978][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.06.15-22.50.18:978][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.06.15-22.50.18:978][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.06.15-22.50.18:978][  0]LogLoad: (Engine Initialization) Total time: 55.81 seconds
+[2022.06.15-22.50.18:978][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.15-22.50.19:041][  0]LogAssetRegistry: Asset discovery search completed in 42.1777 seconds
+[2022.06.15-22.50.19:327][  0]LogFMOD: Display: Loaded bank lookup
+[2022.06.15-22.50.19:327][  0]LogFMOD: Error: Failed to load asset lookup
+[2022.06.15-22.50.19:338][  0]LogFMOD: Default sample rate = 48000
+[2022.06.15-22.50.19:338][  0]LogFMOD: System sample rate = 48000
+[2022.06.15-22.50.19:338][  0]LogFMOD: Matching system sample rate 48000
+[2022.06.15-22.50.19:375][  0]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.06.15-22.50.19:545][  0]LogFMOD: Default sample rate = 48000
+[2022.06.15-22.50.19:545][  0]LogFMOD: System sample rate = 48000
+[2022.06.15-22.50.19:545][  0]LogFMOD: Matching system sample rate 48000
+[2022.06.15-22.50.19:575][  0]LogFMOD: Warning: Master bank (Master.bank) not found.
+[2022.06.15-22.50.19:621][  0]LogFMOD: Warning: Problem loading FMOD Bank: Could not find master bank (Master.bank). Check project settings.
+[2022.06.15-22.50.19:624][  0]LogFMOD: Display: Loaded bank lookup
+[2022.06.15-22.50.19:624][  0]LogFMOD: Error: Failed to load asset lookup
+[2022.06.15-22.50.19:626][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.06.15-22.50.19:626][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.15-22.50.19:676][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.15-22.50.19:850][  2]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0080 seconds. Added 3842 classes and 938 folders.
+[2022.06.15-22.50.20:842][  8]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.15-22.50.24:367][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.15-22.50.24:652][370]LogAssetEditorSubsystem: Opening Asset editor for World /Game/A_Project/2205_GH/Level/LV_2205_GH.LV_2205_GH
+[2022.06.15-22.50.24:652][370]Cmd: MAP LOAD FILE="../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Level/LV_2205_GH.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.15-22.50.24:652][370]LightingResults: New page: 라이팅 빌드
+[2022.06.15-22.50.24:652][370]LoadErrors: New page: 맵 로드 중: LV_2205_GH.umap
+[2022.06.15-22.50.24:654][370]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-22.50.24:654][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-22.50.24:654][370]MapCheck: New page: 맵 체크
+[2022.06.15-22.50.24:654][370]LightingResults: New page: 라이팅 빌드
+[2022.06.15-22.50.24:658][370]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.15-22.50.24:659][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.06.15-22.50.24:660][370]LogAudio: Display: Audio Device (ID: 1) registered with world 'LV_2205_GH'.
+[2022.06.15-22.50.24:681][370]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.15-22.50.24:681][370]LogAIModule: Creating AISystem for world LV_2205_GH
+[2022.06.15-22.50.24:688][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.15-22.50.24:694][370]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.15-22.50.24:694][370]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.062ms.
+[2022.06.15-22.50.24:694][370]LogFileHelpers: Loading map 'LV_2205_GH' took 0.042
+[2022.06.15-22.50.25:991][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (asda)
+[2022.06.15-22.50.27:739][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Stone_ST_sideTile_10)
+[2022.06.15-22.50.33:759][935]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Wall_5)
+[2022.06.15-22.50.34:868][ 17]Cmd: TRANSACTION UNDO
+[2022.06.15-22.50.34:868][ 17]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.50.37:279][210]Cmd: DELETE
+[2022.06.15-22.50.37:279][210]Cmd: ACTOR DELETE
+[2022.06.15-22.50.37:285][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:285][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:285][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:285][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:285][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:285][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:286][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:286][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:286][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:286][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:286][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:286][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:286][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:286][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:286][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:287][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:287][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:287][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:287][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:287][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.50.37:290][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.15-22.50.37:292][210]LogEditorActor: Deleted 20 Actors (0.012 secs)
+[2022.06.15-22.50.39:128][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (asda)
+[2022.06.15-22.50.40:332][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Stone_ST_longstone_14)
+[2022.06.15-22.50.50:960][289]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_3)
+[2022.06.15-22.50.51:285][300]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_02)
+[2022.06.15-22.50.53:047][421]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_7)
+[2022.06.15-22.50.53:381][433]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_6)
+[2022.06.15-22.50.53:712][449]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_5)
+[2022.06.15-22.50.56:194][652]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_4)
+[2022.06.15-22.51.01:244][ 67]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_18)
+[2022.06.15-22.51.01:821][120]Cmd: TRANSACTION UNDO
+[2022.06.15-22.51.01:821][120]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.51.04:427][297]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_9)
+[2022.06.15-22.51.04:873][330]Cmd: TRANSACTION UNDO
+[2022.06.15-22.51.04:873][330]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.51.14:256][987]Cmd: DELETE
+[2022.06.15-22.51.14:256][987]Cmd: ACTOR DELETE
+[2022.06.15-22.51.14:261][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:261][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:261][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:261][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:261][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:261][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:261][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:262][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:262][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:262][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:262][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:262][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:262][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:262][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.14:266][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.06.15-22.51.14:267][987]LogEditorActor: Deleted 14 Actors (0.011 secs)
+[2022.06.15-22.51.17:413][296]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.15-22.51.21:281][604]Cmd: DELETE
+[2022.06.15-22.51.21:281][604]Cmd: ACTOR DELETE
+[2022.06.15-22.51.21:284][604]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.21:284][604]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.21:285][604]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.21:285][604]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.21:288][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.15-22.51.21:290][604]LogEditorActor: Deleted 4 Actors (0.008 secs)
+[2022.06.15-22.51.21:581][620]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.15-22.51.23:158][761]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.15-22.51.25:322][921]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.15-22.51.25:715][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_pillar_round_4)
+[2022.06.15-22.51.36:400][740]Cmd: DELETE
+[2022.06.15-22.51.36:400][740]Cmd: ACTOR DELETE
+[2022.06.15-22.51.36:403][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.36:404][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.36:404][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.36:404][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.36:404][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.36:404][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.36:404][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.36:404][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.36:404][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.36:404][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.36:405][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.36:405][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.36:408][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.15-22.51.36:409][740]LogEditorActor: Deleted 12 Actors (0.009 secs)
+[2022.06.15-22.51.39:275][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Candle_Stick)
+[2022.06.15-22.51.39:917][ 57]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Candle_Stick4)
+[2022.06.15-22.51.41:816][221]Cmd: DELETE
+[2022.06.15-22.51.41:816][221]Cmd: ACTOR DELETE
+[2022.06.15-22.51.41:820][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.41:820][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.41:820][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.41:820][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.41:821][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.41:821][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.41:821][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.41:821][221]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.41:825][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.15-22.51.41:826][221]LogEditorActor: Deleted 8 Actors (0.009 secs)
+[2022.06.15-22.51.43:498][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_coffin_01)
+[2022.06.15-22.51.45:998][545]Cmd: DELETE
+[2022.06.15-22.51.45:998][545]Cmd: ACTOR DELETE
+[2022.06.15-22.51.46:001][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.46:001][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.46:001][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.46:002][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.51.46:005][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.15-22.51.46:006][545]LogEditorActor: Deleted 4 Actors (0.008 secs)
+[2022.06.15-22.52.03:798][808]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.15-22.52.04:160][838]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.06.15-22.52.04:512][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (low_01)
+[2022.06.15-22.52.06:180][ 10]Cmd: DELETE
+[2022.06.15-22.52.06:180][ 10]Cmd: ACTOR DELETE
+[2022.06.15-22.52.06:183][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.52.06:183][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.52.06:184][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.52.06:184][ 10]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.52.06:187][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.06.15-22.52.06:188][ 10]LogEditorActor: Deleted 4 Actors (0.008 secs)
+[2022.06.15-22.52.09:937][377]LogActorFactory: Actor Factory created AT_Stone_Wall_01
+[2022.06.15-22.52.11:540][523]LogActorFactory: Actor Factory created AT_Stone_Wall_01
+[2022.06.15-22.52.26:923][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_pillar_round_10)
+[2022.06.15-22.52.27:340][844]Cmd: DELETE
+[2022.06.15-22.52.27:341][844]Cmd: ACTOR DELETE
+[2022.06.15-22.52.27:343][844]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.52.27:352][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.06.15-22.52.27:353][844]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.06.15-22.52.27:726][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_01)
+[2022.06.15-22.52.35:977][531]Cmd: DUPLICATE
+[2022.06.15-22.52.35:977][531]Cmd: ACTOR DUPLICATE
+[2022.06.15-22.52.55:734][296]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AT_Stone_Wall_01)
+[2022.06.15-22.53.03:384][815]Cmd: TRANSACTION UNDO
+[2022.06.15-22.53.03:384][815]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.53.08:683][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_2)
+[2022.06.15-22.53.18:447][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_2)
+[2022.06.15-22.53.19:903][114]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AT_Stone_Wall_01)
+[2022.06.15-22.53.20:917][192]Cmd: TRANSACTION UNDO
+[2022.06.15-22.53.20:917][192]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.53.21:324][202]Cmd: DUPLICATE
+[2022.06.15-22.53.21:324][202]Cmd: ACTOR DUPLICATE
+[2022.06.15-22.53.24:549][481]Cmd: TRANSACTION UNDO
+[2022.06.15-22.53.24:549][481]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.53.29:649][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2022.06.15-22.53.32:614][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (asda)
+[2022.06.15-22.53.33:109][179]Cmd: DELETE
+[2022.06.15-22.53.33:109][179]Cmd: ACTOR DELETE
+[2022.06.15-22.53.33:112][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.53.33:117][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.06.15-22.53.33:118][179]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.06.15-22.53.33:682][240]Cmd: TRANSACTION UNDO
+[2022.06.15-22.53.33:683][240]LogEditorTransaction: Undo 액터 삭제
+[2022.06.15-22.53.33:927][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2022.06.15-22.53.34:441][269]Cmd: DELETE
+[2022.06.15-22.53.34:441][269]Cmd: ACTOR DELETE
+[2022.06.15-22.53.34:444][269]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.53.34:447][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.15-22.53.34:448][269]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.06.15-22.53.34:876][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (asda)
+[2022.06.15-22.53.35:212][340]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.15-22.53.40:753][789]Cmd: TRANSACTION UNDO
+[2022.06.15-22.53.40:754][789]LogEditorTransaction: Undo 액터 스케일
+[2022.06.15-22.53.41:951][858]Cmd: DUPLICATE
+[2022.06.15-22.53.41:951][858]Cmd: ACTOR DUPLICATE
+[2022.06.15-22.53.44:296][ 46]Cmd: TRANSACTION UNDO
+[2022.06.15-22.53.44:296][ 46]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.53.44:485][ 51]Cmd: TRANSACTION UNDO
+[2022.06.15-22.53.44:485][ 51]LogEditorTransaction: Undo 액터 복제
+[2022.06.15-22.53.44:734][ 52]Cmd: TRANSACTION UNDO
+[2022.06.15-22.53.44:734][ 52]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.53.44:831][ 53]Cmd: TRANSACTION UNDO
+[2022.06.15-22.53.44:831][ 53]LogEditorTransaction: Undo 액터 삭제
+[2022.06.15-22.53.45:161][ 66]Cmd: TRANSACTION UNDO
+[2022.06.15-22.53.45:161][ 66]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.53.46:039][142]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane4)
+[2022.06.15-22.53.46:751][203]Cmd: DUPLICATE
+[2022.06.15-22.53.46:751][203]Cmd: ACTOR DUPLICATE
+[2022.06.15-22.53.58:977][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (asda2)
+[2022.06.15-22.54.05:155][169]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2022.06.15-22.54.08:209][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (asda2)
+[2022.06.15-22.54.13:999][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_2)
+[2022.06.15-22.54.16:412][172]LogEditorViewport: Clicking on Actor (LMB): Emitter (Ps_Fire)
+[2022.06.15-22.54.16:723][193]LogEditorViewport: Clicking on Actor (LMB): Emitter (Ps_Fire4)
+[2022.06.15-22.54.21:248][532]LogEditorViewport: Clicking on Actor (LMB): Emitter (Ps_Fire3)
+[2022.06.15-22.54.24:339][787]LogEditorViewport: Clicking on Actor (LMB): Emitter (Ps_Fire)
+[2022.06.15-22.54.27:658][  8]LogEditorViewport: Clicking on Actor (LMB): Emitter (Ps_Fire2)
+[2022.06.15-22.54.29:823][146]LogEditorViewport: Clicking on Actor (LMB): Emitter (Ps_Fire6)
+[2022.06.15-22.54.30:829][188]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire5)
+[2022.06.15-22.54.31:283][206]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire8)
+[2022.06.15-22.54.31:954][256]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire7)
+[2022.06.15-22.54.32:637][313]Cmd: DELETE
+[2022.06.15-22.54.32:637][313]Cmd: ACTOR DELETE
+[2022.06.15-22.54.32:640][313]LogEditorActor: Deleted Actor: Emitter
+[2022.06.15-22.54.32:641][313]LogEditorActor: Deleted Actor: Emitter
+[2022.06.15-22.54.32:641][313]LogEditorActor: Deleted Actor: Emitter
+[2022.06.15-22.54.32:641][313]LogEditorActor: Deleted Actor: Emitter
+[2022.06.15-22.54.32:648][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.15-22.54.32:651][313]LogEditorActor: Deleted 4 Actors (0.013 secs)
+[2022.06.15-22.54.35:462][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_01)
+[2022.06.15-22.54.36:481][634]LogEditorViewport: Clicking on Actor (LMB): Emitter (Ps_Fire2)
+[2022.06.15-22.54.37:412][711]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire)
+[2022.06.15-22.54.38:132][770]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AT_Stone_Wall_01)
+[2022.06.15-22.54.40:912][997]EditorErrors: New page: 액터 붙임
+[2022.06.15-22.54.42:512][ 96]LogEditorViewport: Clicking on Actor (LMB): Emitter (Ps_Fire3)
+[2022.06.15-22.54.43:707][151]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire4)
+[2022.06.15-22.54.44:970][249]EditorErrors: New page: 액터 붙임
+[2022.06.15-22.54.45:649][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_2)
+[2022.06.15-22.54.49:360][629]LogEditorViewport: Clicking on Actor (LMB): Emitter (Ps_Fire3)
+[2022.06.15-22.54.50:384][713]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire4)
+[2022.06.15-22.54.51:148][769]Cmd: DUPLICATE
+[2022.06.15-22.54.51:148][769]Cmd: ACTOR DUPLICATE
+[2022.06.15-22.54.55:548][240]EditorErrors: New page: 액터 붙임
+[2022.06.15-22.54.55:986][273]Cmd: DUPLICATE
+[2022.06.15-22.54.55:986][273]Cmd: ACTOR DUPLICATE
+[2022.06.15-22.55.00:908][804]EditorErrors: New page: 액터 붙임
+[2022.06.15-22.55.03:911][158]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AT_Stone_Wall_4)
+[2022.06.15-22.55.04:914][252]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AT_Stone_Wall_3)
+[2022.06.15-22.55.06:333][396]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire5)
+[2022.06.15-22.55.08:289][594]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire6)
+[2022.06.15-22.55.10:091][759]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire3)
+[2022.06.15-22.55.10:389][783]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AT_Stone_Wall_2)
+[2022.06.15-22.55.13:446][ 93]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire)
+[2022.06.15-22.55.14:040][143]Cmd: TRANSACTION UNDO
+[2022.06.15-22.55.14:040][143]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.55.14:226][148]Cmd: TRANSACTION UNDO
+[2022.06.15-22.55.14:226][148]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.55.14:612][161]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire4)
+[2022.06.15-22.55.15:199][229]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire)
+[2022.06.15-22.55.16:028][326]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (Ps_Fire2)
+[2022.06.15-22.55.16:308][357]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AT_Stone_Wall_01)
+[2022.06.15-22.55.21:480][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_2)
+[2022.06.15-22.55.22:058][998]Cmd: TRANSACTION UNDO
+[2022.06.15-22.55.22:058][998]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.55.25:644][367]Cmd: DUPLICATE
+[2022.06.15-22.55.25:644][367]Cmd: ACTOR DUPLICATE
+[2022.06.15-22.55.29:810][774]Cmd: TRANSACTION UNDO
+[2022.06.15-22.55.29:810][774]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.55.30:355][785]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AT_Stone_Wall_3)
+[2022.06.15-22.55.30:802][829]Cmd: TRANSACTION UNDO
+[2022.06.15-22.55.30:802][829]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.55.31:025][852]Cmd: TRANSACTION UNDO
+[2022.06.15-22.55.31:025][852]LogEditorTransaction: Undo 액터 복제
+[2022.06.15-22.55.32:025][954]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AT_Stone_Wall_3)
+[2022.06.15-22.55.34:990][297]Cmd: TRANSACTION UNDO
+[2022.06.15-22.55.34:990][297]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.55.39:110][704]Cmd: DUPLICATE
+[2022.06.15-22.55.39:110][704]Cmd: ACTOR DUPLICATE
+[2022.06.15-22.55.54:232][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_5)
+[2022.06.15-22.55.55:328][378]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2022.06.15-22.55.55:995][425]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2022.06.15-22.55.57:182][506]Cmd: DELETE
+[2022.06.15-22.55.57:182][506]Cmd: ACTOR DELETE
+[2022.06.15-22.55.57:200][506]LogEditorActor: SkySphereBlueprint 액터 Light Source 참조했습니다.
+[2022.06.15-22.55.58:381][506]LogSlate: Window '메시지' being destroyed
+[2022.06.15-22.55.58:391][506]Message dialog closed, result: Cancel, title: 메시지, text: 다른 액터/오브젝트가 액터 Light Source 참조했습니다.
+정말 삭제하시겠습니까? 레퍼런스 관계가 끊기게 됩니다.
+
+레퍼런스 목록:
+
+SkySphereBlueprint
+[2022.06.15-22.55.58:395][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.15-22.55.58:397][506]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2022.06.15-22.55.59:676][600]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2022.06.15-22.56.00:227][637]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight4)
+[2022.06.15-22.56.01:603][720]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2022.06.15-22.56.02:382][767]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.06.15-22.56.03:340][841]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight4)
+[2022.06.15-22.56.05:465][996]Cmd: DELETE
+[2022.06.15-22.56.05:465][996]Cmd: ACTOR DELETE
+[2022.06.15-22.56.05:466][996]LogEditorActor: Deleted Actor: PointLight
+[2022.06.15-22.56.05:467][996]LogEditorActor: Deleted Actor: PointLight
+[2022.06.15-22.56.05:471][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.06.15-22.56.05:473][996]LogEditorActor: Deleted 2 Actors (0.007 secs)
+[2022.06.15-22.56.09:422][360]Cmd: TRANSACTION UNDO
+[2022.06.15-22.56.09:422][360]LogEditorTransaction: Undo 액터 삭제
+[2022.06.15-22.56.11:715][463]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.06.15-22.56.13:587][569]Cmd: DUPLICATE
+[2022.06.15-22.56.13:587][569]Cmd: ACTOR DUPLICATE
+[2022.06.15-22.56.19:878][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (asda)
+[2022.06.15-22.56.29:804][739]LogEditorViewport: Clicking on Actor (LMB): Emitter (Ps_Fire2)
+[2022.06.15-22.56.33:277][999]LogEditorViewport: Clicking on Actor (LMB): Emitter (Ps_Fire2)
+[2022.06.15-22.56.40:192][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Stone_ST_longstone_01)
+[2022.06.15-22.56.40:515][628]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Wall_2)
+[2022.06.15-22.56.40:782][648]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_9)
+[2022.06.15-22.56.41:049][670]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_13)
+[2022.06.15-22.56.41:984][764]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_2)
+[2022.06.15-22.56.42:645][816]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_11)
+[2022.06.15-22.56.42:980][845]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_17)
+[2022.06.15-22.56.52:093][879]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Wall_2)
+[2022.06.15-22.56.55:527][244]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_8)
+[2022.06.15-22.56.56:030][282]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_12)
+[2022.06.15-22.56.56:361][308]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_18)
+[2022.06.15-22.56.56:679][341]Cmd: TRANSACTION UNDO
+[2022.06.15-22.56.56:679][341]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.56.56:827][344]Cmd: TRANSACTION UNDO
+[2022.06.15-22.56.56:827][344]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.56.57:142][350]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_12)
+[2022.06.15-22.56.57:371][370]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_18)
+[2022.06.15-22.56.58:541][476]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Wall_2)
+[2022.06.15-22.56.59:047][514]Cmd: DUPLICATE
+[2022.06.15-22.56.59:047][514]Cmd: ACTOR DUPLICATE
+[2022.06.15-22.57.06:635][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_8)
+[2022.06.15-22.57.11:366][743]Cmd: TRANSACTION UNDO
+[2022.06.15-22.57.11:366][743]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.57.12:703][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Stone_ST_longstone_21)
+[2022.06.15-22.57.13:442][932]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_24)
+[2022.06.15-22.57.13:838][975]Cmd: TRANSACTION UNDO
+[2022.06.15-22.57.13:838][975]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.57.14:022][991]Cmd: TRANSACTION UNDO
+[2022.06.15-22.57.14:022][991]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.57.14:985][ 96]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Wall_8)
+[2022.06.15-22.57.17:432][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_2)
+[2022.06.15-22.57.18:204][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_8)
+[2022.06.15-22.57.21:773][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.06.15-22.57.26:232][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Stone_ST_longstone_21)
+[2022.06.15-22.57.26:504][403]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_24)
+[2022.06.15-22.57.27:243][468]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_14)
+[2022.06.15-22.57.29:109][666]Cmd: TRANSACTION UNDO
+[2022.06.15-22.57.29:109][666]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.57.30:013][717]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_14)
+[2022.06.15-22.57.30:460][765]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Wall_8)
+[2022.06.15-22.57.30:811][803]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_20)
+[2022.06.15-22.57.31:081][831]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_23)
+[2022.06.15-22.57.32:016][933]Cmd: TRANSACTION UNDO
+[2022.06.15-22.57.32:016][933]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.57.32:181][947]Cmd: TRANSACTION UNDO
+[2022.06.15-22.57.32:181][947]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-22.57.32:477][979]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_4)
+[2022.06.15-22.57.33:698][101]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_3)
+[2022.06.15-22.57.34:192][142]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Wall_8)
+[2022.06.15-22.57.34:591][180]Cmd: TRANSACTION UNDO
+[2022.06.15-22.57.34:591][180]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-22.57.34:842][205]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_19)
+[2022.06.15-22.57.35:084][230]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_22)
+[2022.06.15-22.57.36:352][355]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_14)
+[2022.06.15-22.57.42:553][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2022.06.15-22.57.44:480][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.15-22.57.47:364][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2022.06.15-22.57.48:918][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane5)
+[2022.06.15-22.57.49:301][769]Cmd: DELETE
+[2022.06.15-22.57.49:301][769]Cmd: ACTOR DELETE
+[2022.06.15-22.57.49:304][769]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-22.57.49:308][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.15-22.57.49:310][769]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.06.15-22.57.50:774][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2022.06.15-22.57.51:789][ 36]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_02.MI_Sample_02
+[2022.06.15-22.57.51:833][ 36]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.06.15-22.57.52:010][ 36]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.06.15-22.57.56:066][385]LogMaterial: Display: Missing cached shadermap for MI_Sample_02 in PCD3D_SM5, Default, SM5 (DDC key hash: BF7D9533D02A15B2413EE844B54E19B56D66CABD), compiling. 
+[2022.06.15-22.57.56:092][386]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.06.15-22.57.56:092][386]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.06.15-22.57.56:092][386]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.06.15-22.57.56:092][386]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.06.15-22.57.56:092][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.06.15-22.57.56:092][386]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.15-22.57.56:124][387]LogShaderCompilers: Display: Submitted 37 shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.56:216][393]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.06.15-22.57.56:217][393]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.06.15-22.57.56:217][393]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2022.06.15-22.57.56:217][393]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.06.15-22.57.56:217][393]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.06.15-22.57.56:217][393]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.15-22.57.57:005][435]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 32
+[2022.06.15-22.57.57:005][435]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.57:025][435]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.15-22.57.57:026][435]LogShaderCompilers: Display: Total job queries 40, among them cache hits 0 (0.00%)
+[2022.06.15-22.57.57:026][435]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.06.15-22.57.57:026][435]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.06.15-22.57.57:026][435]LogShaderCompilers: Display: ================================================
+[2022.06.15-22.57.57:087][438]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2022.06.15-22.57.57:087][438]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.57:087][438]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2022.06.15-22.57.57:087][438]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.57:138][440]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2022.06.15-22.57.57:138][440]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.57:303][448]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.06.15-22.57.57:303][448]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.57:345][448]LogSlate: Window 'MI_Sample_02' being destroyed
+[2022.06.15-22.57.57:362][448]LogSlate: Window 'MI_Sample_02' being destroyed
+[2022.06.15-22.57.57:368][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.06.15-22.57.58:459][448]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-22.57.58:469][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.06.15-22.57.58:515][448]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-22.57.58:515][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-22.58.05:162][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_6)
+[2022.06.15-22.58.08:171][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_2)
+[2022.06.15-22.58.09:418][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_3)
+[2022.06.15-22.58.09:706][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_3)
+[2022.06.15-22.58.11:000][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_6)
+[2022.06.15-23.00.02:778][661]LogEditorFactories: Performing atomic reimport of [D:/A_Fuckyou/Maya/2204/GH/Eng/Tile/Round_01/ST_Round_01.fbx]
+[2022.06.15-23.00.02:852][661]LogFbx: Loading FBX Scene from D:/A_Fuckyou/Maya/2204/GH/Eng/Tile/Round_01/ST_Round_01.fbx
+[2022.06.15-23.00.02:890][661]LogFbx: FBX Scene Loaded Succesfully
+[2022.06.15-23.00.02:930][661]LogStaticMesh: ST_Round_01 스태틱 메시 빌드중...
+[2022.06.15-23.00.02:942][661]LogStaticMesh: Built static mesh [0.01s] /Engine/Transient.ST_Round_01
+[2022.06.15-23.00.03:061][661]LogFbx: Display: Triangulating static mesh Box018
+[2022.06.15-23.00.03:100][661]LogStaticMesh: ST_Round_01 스태틱 메시 빌드중...
+[2022.06.15-23.00.03:102][661]LogStaticMesh: Built static mesh [0.00s] /Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/ST_Round_01.ST_Round_01
+[2022.06.15-23.00.03:114][661]LogEditorFactories: -- imported successfully
+[2022.06.15-23.00.05:138][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_6)
+[2022.06.15-23.00.08:722][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_6)
+[2022.06.15-23.00.11:163][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_6)
+[2022.06.15-23.00.17:726][237]LogUObjectGlobals: Reloading 2 Package(s):
+	Asset Name: /Game/A_Project/2205_GH/Actor_01/AT_Stone_Wall_01
+	Asset Name: /Game/A_Project/2205_GH/Assets/VFX/Ps_Fire
+[2022.06.15-23.00.17:878][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.15-23.00.17:913][237]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'AT_Stone_Wall_01:SceneThumbnailInfo_0' in the new package '/Game/A_Project/2205_GH/Actor_01/AT_Stone_Wall_01'. Any existing references to this object will be nulled out.
+[2022.06.15-23.00.18:038][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.06.15-23.00.19:394][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_6)
+[2022.06.15-23.00.27:723][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_01)
+[2022.06.15-23.00.31:763][548]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Wall_4)
+[2022.06.15-23.00.32:781][625]Cmd: DELETE
+[2022.06.15-23.00.32:781][625]Cmd: ACTOR DELETE
+[2022.06.15-23.00.32:785][625]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-23.00.32:785][625]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-23.00.32:789][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.15-23.00.32:791][625]LogEditorActor: Deleted 2 Actors (0.009 secs)
+[2022.06.15-23.00.33:880][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_01)
+[2022.06.15-23.00.34:662][783]Cmd: TRANSACTION UNDO
+[2022.06.15-23.00.34:662][783]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-23.00.35:084][793]Cmd: TRANSACTION UNDO
+[2022.06.15-23.00.35:084][793]LogEditorTransaction: Undo 액터 삭제
+[2022.06.15-23.00.35:650][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_01)
+[2022.06.15-23.00.38:419][993]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_03.MI_Sample_03
+[2022.06.15-23.00.44:469][386]Cmd: TRANSACTION UNDO
+[2022.06.15-23.00.44:469][386]LogEditorTransaction: Undo Intensity 편집
+[2022.06.15-23.00.46:608][501]LogContentBrowser: Deferred new asset file creation: MI_Sample_06
+[2022.06.15-23.00.46:618][501]LogContentBrowser: Creating deferred item: MI_Sample_06
+[2022.06.15-23.00.46:937][522]LogContentBrowser: Attempting asset rename: MI_Sample_06 -> MI_Sample_06
+[2022.06.15-23.00.46:938][522]LogContentBrowser: End creating deferred item MI_Sample_06
+[2022.06.15-23.00.53:901][ 42]Cmd: TRANSACTION UNDO
+[2022.06.15-23.00.53:901][ 42]LogEditorTransaction: Undo UV_Tile_UV 편집
+[2022.06.15-23.00.54:947][ 84]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_06.MI_Sample_06
+[2022.06.15-23.01.03:426][878]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Wall_4)
+[2022.06.15-23.01.04:489][958]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Wall_01)
+[2022.06.15-23.01.07:725][144]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (ST_Wall_01)
+[2022.06.15-23.01.18:288][140]LogSlate: Window 'MI_Sample_06' being destroyed
+[2022.06.15-23.01.18:302][140]LogSlate: Window 'MI_Sample_06' being destroyed
+[2022.06.15-23.01.18:306][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.15-23.01.18:353][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.06.15-23.01.18:374][140]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-23.01.18:374][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-23.01.18:387][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.15-23.01.18:433][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.15-23.01.18:449][140]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-23.01.18:449][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-23.01.22:392][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_5)
+[2022.06.15-23.01.24:663][729]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/ST_Wall_01.ST_Wall_01
+[2022.06.15-23.01.25:213][729]LogSlate: Took 0.015641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.15-23.01.27:346][888]LogSlate: Window 'ST_Wall_01' being destroyed
+[2022.06.15-23.01.27:359][888]LogSlate: Window 'ST_Wall_01' being destroyed
+[2022.06.15-23.01.27:361][888]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-23.01.27:361][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-23.01.27:953][923]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_03.MI_Sample_03
+[2022.06.15-23.01.30:973][143]LogSlate: Window 'MI_Sample_03' being destroyed
+[2022.06.15-23.01.30:987][143]LogSlate: Window 'MI_Sample_03' being destroyed
+[2022.06.15-23.01.30:993][143]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-23.01.30:994][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-23.01.31:419][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2022.06.15-23.02.16:933][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_5)
+[2022.06.15-23.02.18:783][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (asda3)
+[2022.06.15-23.02.22:245][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.06.15-23.02.22:332][844]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/LV_2205_GH_Auto1C3D57B1740C497CF3BAB5787FABDFDD1.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Autosaves/Game/A_Project/2205_GH/Level/LV_2205_GH_Auto1.umap'
+[2022.06.15-23.02.22:334][844]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/A_Project/2205_GH/Level/LV_2205_GH' took 0.094
+[2022.06.15-23.02.22:334][844]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2022.06.15-23.02.22:335][844]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_02] ([1] browsable assets)...
+[2022.06.15-23.02.22:344][844]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_02.MI_Sample_02]
+[2022.06.15-23.02.22:344][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_02]
+[2022.06.15-23.02.22:350][844]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/MI_Sample_02_Auto19B48A2854178A0DF898EE5854BC7D4AE.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Autosaves/Game/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_02_Auto1.uasset'
+[2022.06.15-23.02.22:372][844]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/ST_Round_01] ([1] browsable assets)...
+[2022.06.15-23.02.22:380][844]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/ST_Round_01.ST_Round_01]
+[2022.06.15-23.02.22:380][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/ST_Round_01]
+[2022.06.15-23.02.22:440][844]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/ST_Round_01_Auto13BEE5C7C49E2506C2A9B05A44C547C4D.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Autosaves/Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/ST_Round_01_Auto1.uasset'
+[2022.06.15-23.02.22:440][844]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_03] ([1] browsable assets)...
+[2022.06.15-23.02.22:448][844]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_03.MI_Sample_03]
+[2022.06.15-23.02.22:448][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_03]
+[2022.06.15-23.02.22:465][844]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/MI_Sample_03_Auto11DCAF48A4F7B1AD719E611B0D7895861.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Autosaves/Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_03_Auto1.uasset'
+[2022.06.15-23.02.22:465][844]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_06] ([1] browsable assets)...
+[2022.06.15-23.02.22:473][844]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_06.MI_Sample_06]
+[2022.06.15-23.02.22:473][844]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_06]
+[2022.06.15-23.02.22:479][844]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/MI_Sample_06_Auto159B978EE4C9A7EB24E07F39A4619DAC0.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Autosaves/Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_06_Auto1.uasset'
+[2022.06.15-23.02.22:479][844]LogFileHelpers: Auto-saving content packages took 0.145
+[2022.06.15-23.02.28:081][ 61]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\A_Fuckyou\Maya\2204\GH\Eng\Tile\Plane_01\T_Plane_02_D.png)
+[2022.06.15-23.02.28:544][ 61]LogTexture: Display: 텍스처 빌드: T_Plane_02_D (OODLE_AutoDXT, 4096X4096)
+[2022.06.15-23.02.29:570][ 61]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.02.29:570][ 61]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.02.29:570][ 61]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.02.31:424][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_5)
+[2022.06.15-23.02.33:345][345]LogContentBrowser: Deferred new asset file creation: MI_Sample_05
+[2022.06.15-23.02.34:857][345]LogContentBrowser: Creating deferred item: MI_Sample_05
+[2022.06.15-23.02.35:896][423]LogContentBrowser: Attempting asset rename: MI_Sample_05 -> MI_Sample_05
+[2022.06.15-23.02.35:897][423]LogContentBrowser: End creating deferred item MI_Sample_05
+[2022.06.15-23.02.36:667][442]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/MI_Sample_05199533E9495C104669F784AD573430D8.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_05.uasset'
+[2022.06.15-23.02.36:680][442]AssetCheck: New page: 에셋 저장:  MI_Sample_05
+[2022.06.15-23.02.36:680][442]LogContentValidation: Display: MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_05.MI_Sample_05 유효성 검사 중
+[2022.06.15-23.02.39:563][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.06.15-23.02.40:862][586]LogSlate: Window '콘텐츠 저장' being destroyed
+[2022.06.15-23.02.40:924][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.15-23.02.41:015][586]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/LV_2205_GH159ABC4040C4BCE7526E2A9247108243.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Level/LV_2205_GH.umap'
+[2022.06.15-23.02.41:055][586]LogFileHelpers: Saving map 'LV_2205_GH' took 0.135
+[2022.06.15-23.02.41:065][586]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/MI_Sample_0212D5295D4BF784C775DE458DF9816929.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_02.uasset'
+[2022.06.15-23.02.41:070][586]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/MI_Sample_03A09D76BE41845714567CFAB82082B60E.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_03.uasset'
+[2022.06.15-23.02.41:075][586]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/MI_Sample_0692652C9F48F5910FE8DC27BA28E745C5.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_06.uasset'
+[2022.06.15-23.02.41:078][586]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/ST_Round_01140DBEB64B92D191815D1183F7DC5D55.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Assets/Stone_tile/Wall_01/ST_Round_01.uasset'
+[2022.06.15-23.02.41:923][586]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/T_Plane_02_DBDF876C0427AADA73277C68046A6230C.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Assets/Stone_tile/Plane_01/T_Plane_02_D.uasset'
+[2022.06.15-23.02.41:989][586]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.06.15-23.02.41:990][586]LogContentValidation: Display: MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_02.MI_Sample_02 유효성 검사 중
+[2022.06.15-23.02.41:990][586]LogContentValidation: Display: MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_03.MI_Sample_03 유효성 검사 중
+[2022.06.15-23.02.41:990][586]LogContentValidation: Display: StaticMesh /Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/ST_Round_01.ST_Round_01 유효성 검사 중
+[2022.06.15-23.02.41:990][586]LogContentValidation: Display: MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Wall_01/MI_Sample_06.MI_Sample_06 유효성 검사 중
+[2022.06.15-23.02.41:990][586]LogContentValidation: Display: World /Game/A_Project/2205_GH/Level/LV_2205_GH.LV_2205_GH 유효성 검사 중
+[2022.06.15-23.02.41:990][586]LogContentValidation: Display: Texture2D /Game/A_Project/2205_GH/Assets/Stone_tile/Plane_01/T_Plane_02_D.T_Plane_02_D 유효성 검사 중
+[2022.06.15-23.02.43:601][730]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_05.MI_Sample_05
+[2022.06.15-23.02.49:333][185]LogSlate: Window 'MI_Sample_05' being destroyed
+[2022.06.15-23.02.49:350][185]LogSlate: Window 'MI_Sample_05' being destroyed
+[2022.06.15-23.02.49:354][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.15-23.02.49:396][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.15-23.02.49:409][185]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-23.02.49:409][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-23.02.54:746][700]Cmd: TRANSACTION UNDO
+[2022.06.15-23.02.54:746][700]LogEditorTransaction: Undo 액터 생성
+[2022.06.15-23.02.57:669][907]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_05.MI_Sample_05
+[2022.06.15-23.03.12:994][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (asda)
+[2022.06.15-23.03.13:368][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (asda)
+[2022.06.15-23.03.14:206][174]LogSlate: Window 'MI_Sample_05' being destroyed
+[2022.06.15-23.03.14:213][174]LogSlate: Window 'MI_Sample_05' being destroyed
+[2022.06.15-23.03.14:217][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.06.15-23.03.14:275][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.15-23.03.14:314][174]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-23.03.14:314][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-23.03.17:121][366]LogContentBrowser: Deferred new asset file creation: MI_Sample_Mesh1
+[2022.06.15-23.03.17:131][366]LogContentBrowser: Creating deferred item: MI_Sample_Mesh1
+[2022.06.15-23.03.17:327][380]LogContentBrowser: Attempting asset rename: MI_Sample_Mesh1 -> MI_Sample_Mesh1
+[2022.06.15-23.03.17:328][380]LogContentBrowser: End creating deferred item MI_Sample_Mesh1
+[2022.06.15-23.03.18:152][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2022.06.15-23.03.21:299][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.15-23.03.21:972][677]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.15-23.03.22:100][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.15-23.03.22:112][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.15-23.03.22:115][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.06.15-23.03.22:749][709]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_Mesh1.MI_Sample_Mesh1
+[2022.06.15-23.03.27:061][  9]LogMaterial: Display: Missing cached shadermap for MI_Sample_Mesh1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A8199D0D1E493B91EB6D30CD7C58D0154A581B5), compiling. 
+[2022.06.15-23.03.27:130][ 11]LogShaderCompilers: Display: Submitted 67 shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.27:135][ 11]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2022.06.15-23.03.27:135][ 11]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2022.06.15-23.03.27:135][ 11]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2022.06.15-23.03.27:135][ 11]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2022.06.15-23.03.27:135][ 11]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2022.06.15-23.03.27:135][ 11]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.06.15-23.03.27:135][ 11]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.06.15-23.03.27:135][ 11]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 48
+[2022.06.15-23.03.27:135][ 11]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.27:135][ 11]LogShaderCompilers: Display: Started 19 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.15-23.03.27:773][ 31]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.06.15-23.03.27:773][ 31]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.15-23.03.27:778][ 31]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.15-23.03.27:778][ 31]LogShaderCompilers: Display: Total job queries 142, among them cache hits 35 (24.65%)
+[2022.06.15-23.03.27:778][ 31]LogShaderCompilers: Display: Tracking 41 distinct input hashes that result in 37 distinct outputs (90.24%)
+[2022.06.15-23.03.27:779][ 31]LogShaderCompilers: Display: RAM used: 0.16 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.06.15-23.03.27:779][ 31]LogShaderCompilers: Display: ================================================
+[2022.06.15-23.03.27:934][ 38]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2022.06.15-23.03.27:934][ 38]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.06.15-23.03.28:134][ 44]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 39
+[2022.06.15-23.03.28:134][ 44]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.28:159][ 45]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2022.06.15-23.03.28:159][ 45]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.28:159][ 45]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2022.06.15-23.03.28:159][ 45]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.28:229][ 48]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2022.06.15-23.03.28:229][ 48]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.28:252][ 49]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2022.06.15-23.03.28:252][ 49]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.28:252][ 49]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2022.06.15-23.03.28:252][ 49]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.28:557][ 61]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.06.15-23.03.28:557][ 61]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.28:974][ 76]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2022.06.15-23.03.28:974][ 76]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.29:197][ 85]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2022.06.15-23.03.29:197][ 85]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.29:312][ 89]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2022.06.15-23.03.29:312][ 89]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.29:385][ 92]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2022.06.15-23.03.29:385][ 92]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.29:434][ 94]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.06.15-23.03.29:434][ 94]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.29:455][ 95]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.06.15-23.03.29:455][ 95]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.06.15-23.03.29:455][ 95]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.29:479][ 96]LogSlate: Window 'MI_Sample_Mesh1' being destroyed
+[2022.06.15-23.03.29:509][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.06.15-23.03.29:768][ 96]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2022.06.15-23.03.29:768][ 96]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.29:768][ 96]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.06.15-23.03.29:768][ 96]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.29:768][ 96]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.06.15-23.03.29:768][ 96]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.06.15-23.03.29:887][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.06.15-23.03.29:898][ 96]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-23.03.29:898][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-23.03.32:290][267]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/A_Project/2205_GH/Assets/Stone_tile/Plane_01/MI_Sample_Mesh1.MI_Sample_Mesh1
+[2022.06.15-23.03.35:459][516]LogSlate: Window 'MI_Sample_Mesh1' being destroyed
+[2022.06.15-23.03.35:479][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.06.15-23.03.35:524][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.06.15-23.03.35:545][516]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-23.03.35:545][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-23.03.36:789][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_5)
+[2022.06.15-23.03.42:565][136]Cmd: DELETE
+[2022.06.15-23.03.42:565][136]Cmd: ACTOR DELETE
+[2022.06.15-23.03.42:571][136]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-23.03.42:575][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.15-23.03.42:577][136]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.06.15-23.03.45:640][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2022.06.15-23.03.46:591][495]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane6)
+[2022.06.15-23.03.59:440][209]Cmd: TRANSACTION UNDO
+[2022.06.15-23.03.59:440][209]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-23.04.05:389][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_3)
+[2022.06.15-23.04.18:563][666]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AT_Stone_Wall_7)
+[2022.06.15-23.04.20:192][800]Cmd: DUPLICATE
+[2022.06.15-23.04.20:192][800]Cmd: ACTOR DUPLICATE
+[2022.06.15-23.04.28:633][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_10)
+[2022.06.15-23.04.42:595][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_14)
+[2022.06.15-23.04.46:059][180]Cmd: DELETE
+[2022.06.15-23.04.46:059][180]Cmd: ACTOR DELETE
+[2022.06.15-23.04.46:067][180]LogEditorActor: Deleted Actor: Emitter
+[2022.06.15-23.04.46:067][180]LogEditorActor: Deleted Actor: Emitter
+[2022.06.15-23.04.46:068][180]LogEditorActor: Deleted Actor: Emitter
+[2022.06.15-23.04.46:068][180]LogEditorActor: Deleted Actor: Emitter
+[2022.06.15-23.04.46:068][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-23.04.46:068][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-23.04.46:068][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-23.04.46:092][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.06.15-23.04.46:092][180]LogEditorActor: Deleted Actor: Emitter
+[2022.06.15-23.04.46:092][180]LogEditorActor: Deleted Actor: Emitter
+[2022.06.15-23.04.46:092][180]LogEditorActor: Deleted Actor: Emitter
+[2022.06.15-23.04.46:093][180]LogEditorActor: Deleted Actor: Emitter
+[2022.06.15-23.04.46:097][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.15-23.04.46:102][180]LogEditorActor: Deleted 12 Actors (0.043 secs)
+[2022.06.15-23.04.46:870][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_9)
+[2022.06.15-23.04.48:323][416]Cmd: DUPLICATE
+[2022.06.15-23.04.48:323][416]Cmd: ACTOR DUPLICATE
+[2022.06.15-23.05.49:267][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_3)
+[2022.06.15-23.05.50:318][784]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AT_Stone_Wall_7)
+[2022.06.15-23.05.50:771][834]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_27)
+[2022.06.15-23.05.52:000][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_6)
+[2022.06.15-23.05.54:160][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_3)
+[2022.06.15-23.06.04:766][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_8)
+[2022.06.15-23.06.06:014][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Stone_ST_longstone_31)
+[2022.06.15-23.06.07:101][485]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_29)
+[2022.06.15-23.06.08:086][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_6)
+[2022.06.15-23.06.09:164][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_6)
+[2022.06.15-23.06.09:508][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_5)
+[2022.06.15-23.06.12:289][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Stone_ST_longstone_01)
+[2022.06.15-23.06.13:253][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Stone_ST_longstone_14)
+[2022.06.15-23.06.15:248][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_7)
+[2022.06.15-23.06.15:616][320]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_31)
+[2022.06.15-23.06.16:094][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_7)
+[2022.06.15-23.06.16:653][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Stone_ST_longstone_29)
+[2022.06.15-23.06.16:990][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Stone_ST_longstone_31)
+[2022.06.15-23.06.17:538][525]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_29)
+[2022.06.15-23.06.21:801][925]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_28)
+[2022.06.15-23.06.22:092][955]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_30)
+[2022.06.15-23.06.23:064][ 56]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_33)
+[2022.06.15-23.06.23:496][ 95]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_34)
+[2022.06.15-23.06.23:909][130]Cmd: DUPLICATE
+[2022.06.15-23.06.23:909][130]Cmd: ACTOR DUPLICATE
+[2022.06.15-23.06.33:211][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Stone_ST_longstone_26)
+[2022.06.15-23.06.34:187][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Stone_ST_longstone_26)
+[2022.06.15-23.06.34:534][284]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_27)
+[2022.06.15-23.06.34:955][330]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (AT_Stone_Wall_8)
+[2022.06.15-23.06.35:679][412]Cmd: TRANSACTION UNDO
+[2022.06.15-23.06.35:679][412]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-23.06.39:131][740]Cmd: TRANSACTION UNDO
+[2022.06.15-23.06.39:131][740]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-23.06.39:408][746]Cmd: TRANSACTION UNDO
+[2022.06.15-23.06.39:408][746]LogEditorTransaction: Undo 액터 클릭
+[2022.06.15-23.06.39:568][749]Cmd: TRANSACTION UNDO
+[2022.06.15-23.06.39:568][749]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-23.06.39:753][760]Cmd: TRANSACTION UNDO
+[2022.06.15-23.06.39:753][760]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-23.06.39:929][779]Cmd: TRANSACTION UNDO
+[2022.06.15-23.06.39:929][779]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-23.06.42:196][ 45]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_32)
+[2022.06.15-23.06.42:588][ 86]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_26)
+[2022.06.15-23.06.43:560][180]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ST_Stone_ST_longstone_27)
+[2022.06.15-23.06.44:311][239]Cmd: DUPLICATE
+[2022.06.15-23.06.44:311][239]Cmd: ACTOR DUPLICATE
+[2022.06.15-23.06.50:002][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ST_Wall_3)
+[2022.06.15-23.06.51:427][986]Cmd: DUPLICATE
+[2022.06.15-23.06.51:427][986]Cmd: ACTOR DUPLICATE
+[2022.06.15-23.07.27:230][ 53]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.06.15-23.07.28:790][126]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2022.06.15-23.07.29:985][185]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight3)
+[2022.06.15-23.07.30:826][243]Cmd: DELETE
+[2022.06.15-23.07.30:826][243]Cmd: ACTOR DELETE
+[2022.06.15-23.07.30:833][243]LogEditorActor: Deleted Actor: PointLight
+[2022.06.15-23.07.30:834][243]LogEditorActor: Deleted Actor: PointLight
+[2022.06.15-23.07.30:837][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.15-23.07.30:843][243]LogEditorActor: Deleted 2 Actors (0.017 secs)
+[2022.06.15-23.07.31:197][269]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.06.15-23.07.44:914][130]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2022.06.15-23.07.45:415][153]Cmd: DELETE
+[2022.06.15-23.07.45:415][153]Cmd: ACTOR DELETE
+[2022.06.15-23.07.45:422][153]LogEditorActor: Deleted Actor: PointLight
+[2022.06.15-23.07.45:426][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.06.15-23.07.45:428][153]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2022.06.15-23.07.46:852][280]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.06.15-23.07.50:908][592]Cmd: DELETE
+[2022.06.15-23.07.50:908][592]Cmd: ACTOR DELETE
+[2022.06.15-23.07.50:915][592]LogEditorActor: Deleted Actor: PointLight
+[2022.06.15-23.07.50:918][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.06.15-23.07.50:920][592]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2022.06.15-23.07.52:491][706]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.06.15-23.07.52:850][717]Cmd: DELETE
+[2022.06.15-23.07.52:850][717]Cmd: ACTOR DELETE
+[2022.06.15-23.07.52:857][717]LogEditorActor: Deleted Actor: PointLight
+[2022.06.15-23.07.52:860][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.06.15-23.07.52:862][717]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2022.06.15-23.10.12:656][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_10)
+[2022.06.15-23.10.13:158][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_10)
+[2022.06.15-23.10.13:718][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_10)
+[2022.06.15-23.10.23:940][432]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/A_Project/2205_GH/Assets/Candle_01/SM_Candle_01.SM_Candle_01
+[2022.06.15-23.10.26:075][561]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/A_Project/2205_GH/Assets/Candle_01/SM_Candle_02.SM_Candle_02
+[2022.06.15-23.10.26:477][565]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/A_Project/2205_GH/Assets/Candle_01/SM_Candle_03.SM_Candle_03
+[2022.06.15-23.10.28:279][648]LogSlate: Window 'SM_Candle_03' being destroyed
+[2022.06.15-23.10.28:318][648]LogSlate: Window 'SM_Candle_03' being destroyed
+[2022.06.15-23.10.28:321][648]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-23.10.28:321][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-23.10.28:530][648]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-23.10.28:530][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-23.10.28:821][648]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.06.15-23.10.28:821][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.15-23.10.42:187][236]LogEditorFactories: Performing atomic reimport of [D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_01_ARM.png]
+[2022.06.15-23.10.42:421][236]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_01_ARM.png)
+[2022.06.15-23.10.42:786][236]LogTexture: Display: 텍스처 빌드: T_Coffin_01_ARM (OODLE_AutoDXT, 4096X4096)
+[2022.06.15-23.10.43:575][236]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.10.43:575][236]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.10.43:575][236]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.10.43:575][236]LogEditorFactories: -- imported successfully
+[2022.06.15-23.10.43:605][236]LogEditorFactories: Performing atomic reimport of [D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_01_D.png]
+[2022.06.15-23.10.43:772][236]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_01_D.png)
+[2022.06.15-23.10.44:143][236]LogTexture: Display: 텍스처 빌드: T_Coffin_01_D (OODLE_AutoDXT, 4096X4096)
+[2022.06.15-23.10.45:002][236]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.10.45:002][236]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.10.45:002][236]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.10.45:002][236]LogEditorFactories: -- imported successfully
+[2022.06.15-23.10.45:034][236]LogEditorFactories: Performing atomic reimport of [D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_01_N.png]
+[2022.06.15-23.10.45:251][236]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_01_N.png)
+[2022.06.15-23.10.45:671][236]LogTexture: Display: 텍스처 빌드: T_Coffin_01_N (OODLE_BC5, 4096X4096)
+[2022.06.15-23.10.46:034][236]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-23.10.46:034][236]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-23.10.46:034][236]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-23.10.46:034][236]LogEditorFactories: -- imported successfully
+[2022.06.15-23.11.04:556][271]LogEditorFactories: Performing atomic reimport of [D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_D.png]
+[2022.06.15-23.11.04:588][271]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_D.png)
+[2022.06.15-23.11.04:957][271]LogTexture: Display: 텍스처 빌드: T_Coffin_01_D (OODLE_AutoDXT, 4096X4096)
+[2022.06.15-23.11.05:897][271]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.11.05:897][271]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.11.05:897][271]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.11.05:897][271]LogEditorFactories: -- imported successfully
+[2022.06.15-23.11.08:740][423]LogEditorFactories: Performing atomic reimport of [D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_ARM.png]
+[2022.06.15-23.11.08:767][423]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_ARM.png)
+[2022.06.15-23.11.09:113][423]LogTexture: Display: 텍스처 빌드: T_Coffin_01_ARM (OODLE_AutoDXT, 4096X4096)
+[2022.06.15-23.11.09:927][423]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.11.09:927][423]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.11.09:927][423]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.11.09:927][423]LogEditorFactories: -- imported successfully
+[2022.06.15-23.11.13:206][649]LogEditorFactories: Performing atomic reimport of [D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_N.png]
+[2022.06.15-23.11.13:257][649]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_N.png)
+[2022.06.15-23.11.13:699][649]LogTexture: Display: 텍스처 빌드: T_Coffin_01_N (OODLE_BC5, 4096X4096)
+[2022.06.15-23.11.14:107][649]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-23.11.14:107][649]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-23.11.14:107][649]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.06.15-23.11.14:107][649]LogEditorFactories: -- imported successfully
+[2022.06.15-23.11.17:203][911]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight1)
+[2022.06.15-23.11.42:142][860]LogEditorFactories: Performing atomic reimport of [D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_D.png]
+[2022.06.15-23.11.42:174][860]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_D.png)
+[2022.06.15-23.11.42:536][860]LogTexture: Display: 텍스처 빌드: T_Coffin_01_D (OODLE_AutoDXT, 4096X4096)
+[2022.06.15-23.11.43:434][860]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.11.43:434][860]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.11.43:434][860]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.11.43:434][860]LogEditorFactories: -- imported successfully
+[2022.06.15-23.11.53:186][ 78]LogEditorFactories: Performing atomic reimport of [D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_D.png]
+[2022.06.15-23.11.53:186][ 78]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_D.png)
+[2022.06.15-23.11.53:186][ 78]LogStreaming: Warning: Failed to read file 'D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_D.png' error.
+[2022.06.15-23.11.53:186][ 78]LogFactory: Error: Failed to load file 'D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_D.png' to array
+[2022.06.15-23.11.53:186][ 78]LogEditorFactories: Warning: -- import failed
+[2022.06.15-23.11.55:136][233]LogEditorFactories: Performing atomic reimport of [D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_D.png]
+[2022.06.15-23.11.55:169][233]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/A_Fuckyou/Maya/2204/GH/Eng/Coffin/T_Coffin_D.png)
+[2022.06.15-23.11.55:528][233]LogTexture: Display: 텍스처 빌드: T_Coffin_01_D (OODLE_AutoDXT, 4096X4096)
+[2022.06.15-23.11.56:465][233]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.11.56:465][233]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.11.56:465][233]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.06.15-23.11.56:465][233]LogEditorFactories: -- imported successfully
+[2022.06.15-23.12.00:501][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2022.06.15-23.12.02:167][635]Cmd: TRANSACTION UNDO
+[2022.06.15-23.12.02:167][635]LogEditorTransaction: Undo 액터 이동
+[2022.06.15-23.12.02:471][642]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane6)
+[2022.06.15-23.12.13:255][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane6)
+[2022.06.15-23.12.13:537][553]Cmd: DUPLICATE
+[2022.06.15-23.12.13:537][553]Cmd: ACTOR DUPLICATE
+[2022.06.15-23.12.25:933][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_3)
+[2022.06.15-23.12.31:702][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (AT_Stone_Wall_11)
+[2022.06.15-23.12.40:071][297]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/A_Project/2205_GH/Actor_01/AT_Stone_Wall_01.AT_Stone_Wall_01
+[2022.06.15-23.12.53:674][524]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Candle_only_03F56929D44885681F9B4CCF81D1F0B715.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Actor_01/Candle_only_03.uasset'
+[2022.06.15-23.12.53:795][524]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/AT_Candle_01D47141C7471D3C9B448C28AD613748F0.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Actor_01/AT_Candle_01.uasset'
+[2022.06.15-23.12.53:966][524]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/AT_Stone_Wall_010D5547B940E00D9E1DC5C29F91FB0C74.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Actor_01/AT_Stone_Wall_01.uasset'
+[2022.06.15-23.12.54:006][524]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Candle_02496CDE794E5496E7FAFA7F8214D6C0A2.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Actor_01/Candle_02.uasset'
+[2022.06.15-23.12.54:062][524]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Candle_0308EEEEAC40D17AE0E7231C9499421F40.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Actor_01/Candle_03.uasset'
+[2022.06.15-23.12.54:193][524]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Candle_only_01E2B1BD1245906BD47AE92CADF1522C80.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Actor_01/Candle_only_01.uasset'
+[2022.06.15-23.12.54:271][524]LogSavePackage: Moving '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Saved/Candle_only_02D59033D64182F2D778FD72B255BB42F7.tmp' to '../../../../../../../A_Fuckyou/github/KimJae_Neversleep/KimJae_sleep/Content/A_Project/2205_GH/Actor_01/Candle_only_02.uasset'
+[2022.06.15-23.12.54:351][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.06.15-23.12.54:504][524]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2022.06.15-23.12.54:504][524]LogContentValidation: Display: StaticMesh /Game/A_Project/2205_GH/Actor_01/AT_Stone_Wall_01.AT_Stone_Wall_01 유효성 검사 중
+[2022.06.15-23.12.54:504][524]LogContentValidation: Display: StaticMesh /Game/A_Project/2205_GH/Actor_01/Candle_only_03.Candle_only_03 유효성 검사 중
+[2022.06.15-23.12.54:504][524]LogContentValidation: Display: StaticMesh /Game/A_Project/2205_GH/Actor_01/AT_Candle_01.AT_Candle_01 유효성 검사 중
+[2022.06.15-23.12.54:504][524]LogContentValidation: Display: StaticMesh /Game/A_Project/2205_GH/Actor_01/Candle_02.Candle_02 유효성 검사 중
+[2022.06.15-23.12.54:504][524]LogContentValidation: Display: StaticMesh /Game/A_Project/2205_GH/Actor_01/Candle_03.Candle_03 유효성 검사 중
+[2022.06.15-23.12.54:504][524]LogContentValidation: Display: StaticMesh /Game/A_Project/2205_GH/Actor_01/Candle_only_01.Candle_only_01 유효성 검사 중
+[2022.06.15-23.12.54:504][524]LogContentValidation: Display: StaticMesh /Game/A_Project/2205_GH/Actor_01/Candle_only_02.Candle_only_02 유효성 검사 중
+[2022.06.15-23.13.02:983][342]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.15-23.13.03:304][342]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.305 s
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: === Handled ensure: ===
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: 
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: Found circular redirect from /Game/A_Project/2205_GH/Actor_01/Candle_only_03.Candle_only_03 to /Game/A_Project/2205_GH/Actor_01/Candle_only_03.Candle_only_03! Returning None instead
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: Stack: 
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff80eedff53 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff80ea53e30 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff80ea358b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007fffa8a818be UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007fffa8a67141 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007fffa8a05d1a UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007fffa8a81112 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007fffa8a4cb62 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007fff951c2768 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007fff951c2bf5 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007fff95182710 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007fffa911aadf UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007fffa914ed1b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007fffa91a373d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff876d21b55 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff876d28370 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff876cfc587 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff876d9a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff876db280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff876d29ae5 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff876c0421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff876c7e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff876c67097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff876c59b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff8b4b9c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff8b4b892b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff8b4b9e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff8b4b84410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff8dface858 USER32.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff8dface299 USER32.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff8b4b9fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff703ac7621 UE4Editor.exe!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff703ae0fcc UE4Editor.exe!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff703ae10ba UE4Editor.exe!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff703ae40dd UE4Editor.exe!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff703af5984 UE4Editor.exe!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff703af853a UE4Editor.exe!UnknownFunction []
+[2022.06.15-23.13.03:304][342]LogOutputDevice: Error: [Callstack] 0x00007ff8dfed7034 KERNEL32.DLL!UnknownFunction []
+[2022.06.15-23.13.03:305][342]LogOutputDevice: Error: [Callstack] 0x00007ff8e1982651 ntdll.dll!UnknownFunction []
+[2022.06.15-23.13.03:305][342]LogOutputDevice: Error: 
+[2022.06.15-23.13.03:313][342]LogStats:                SubmitErrorReport -  0.000 s
